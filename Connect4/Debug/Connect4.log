@@ -1,0 +1,3 @@
+﻿  Connect4.cpp
+D:\Proiecte Visual studio\Connect4\Connect4\Connect4.cpp(109,11): warning C4101: 'k': unreferenced local variable
+  Connect4.vcxproj -> D:\Proiecte Visual studio\Connect4\Debug\Connect4.exe
